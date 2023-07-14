@@ -14,9 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="client\src\app\_forms\" />
     <Folder Include="Data\" />
     <Folder Include="Entities\" />
-    <Folder Include="Migrations\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Extensions\" />
     <Folder Include="Services\" />
